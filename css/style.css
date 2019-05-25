@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
 body {
     color: #333333;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Dosis',
+        sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
