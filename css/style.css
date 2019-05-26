@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
 
 body {
+    background: #1e1f24;
     color: #333333;
     text-align: center;
     font-family: 'Dosis',
@@ -17,6 +18,11 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -39,4 +45,5 @@ body {
 
 #post {
     padding: 1em;
+    background: #fff;
 }
